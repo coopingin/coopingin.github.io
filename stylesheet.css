@@ -92,8 +92,8 @@ li a:hover:not(.active) {
 }
 div.main {
   margin-top: 12.5rem;
-  margin-left: 8.5rem;
-  margin-right: 8.5rem;
+  margin-left: 20.5rem;
+  margin-right: 20.5rem;
 }
 div {
   display: block;
@@ -112,4 +112,12 @@ p.index {
 span.note {
   float: right;
   font-weight: bold;
+}
+span.label {
+  font-weight: bold;
+}
+
+h1.memoirTitle {
+  text-align: center;
+  margin-top: 2rem;
 }
