@@ -7,21 +7,18 @@
       <!-- We used a letter template for this one. My only question would be what publication information would be important in a letter like this. -->
       <fileDesc>
          <titleStmt>
-       
-
-              
                <title type="main">H.H. Horn Letter from Hitoshi Motoshima</title>
                <author>Hitoshi Moshima<ref target="#n01"/></author>
                <editor xml:id="bb">Cooper Rohde</editor>
                <editor xml:id="ow">Malik Rasaq</editor>
                <editor xml:id="jg">Jeffrey Gilbert</editor>
-            
+
             <respStmt>
                <resp>Encoded by,</resp>
                <persName>Cooper Rohde</persName>
             </respStmt>
          </titleStmt>
-         
+
          <publicationStmt>
             <publisher>
                <orgName></orgName>
@@ -52,7 +49,7 @@
       </front>
       <body>
          <opener>
-            <!-- groups dateline, 
+            <!-- groups dateline,
                byline, salutation -->
             <dateline>
                <placeName></placeName>
@@ -81,7 +78,7 @@
             incident. It is my firm intention now as mayor of Nagasaki
             to strive with you for nuclear disarma ment, for world peace ,
             and for genuine d e mocracy in Japan.
-         </p> 
+         </p>
          <p>
             The first thing that entered my mind on my hospital bed
             ,was the suffering of the ill, of the aged and handicapped,
@@ -89,7 +86,7 @@
             the slow but steady growth of early spring leaves from the
             window, I realized clearly that we must persevere in the
             face of various circumstances in life.
-         </p> 
+         </p>
          <p>
             The faith passed on from my ancestors helped me to
             remain calm after the bullet passed through my chest, and to
@@ -97,15 +94,15 @@
             feeling of enormous gratitude.
             Please accept my repeated thanks and my warm wishes for
             good health and happiness for you and your loved ones.
-            
-         </p> 
+
+         </p>
          <p>
             Please accept my repeated thanks and my warm wishes for
             good health and happiness for you and your loved ones.
-           
-         </p> 
+
+         </p>
          <closer>
-            <!-- groups together 
+            <!-- groups together
                salute and signed -->
             <salute>
                Sincerely, yours
