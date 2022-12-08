@@ -4,6 +4,7 @@
 }
 html{
   scroll-padding-top:12.5rem;
+  background-color: #d6e2e6;
 }
 
 }
@@ -19,12 +20,12 @@ div.logo {
 }
 div.navbar-top {
   overflow: hidden;
-  background-color: #558BC9; <!-- HEADER --!>
+  background-color: #175b77; <!-- HEADER --!>
   position: fixed;
   display: block;
   top: 0;
   width: 100%;
-  height: 11rem;
+  height: 14rem;
   margin-left: 0.125rem;
   margin-right: 0.125rem;
 }
@@ -86,12 +87,12 @@ li a:hover:not(.active) {
   font-weight: bold;
 }
 .active2 {
-  background-color: #989464;
+  background-color: #7da4b4;
   font-family: sans-serif;
   font-weight: bold;
 }
 div.main {
-  margin-top: 12.5rem;
+  margin-top: 5.5rem;
   margin-left: 20.5rem;
   margin-right: 20.5rem;
 }
@@ -105,8 +106,9 @@ img.center {
 }
 
 p.index {
-  margin-left: 22.5rem;
-  margin-right: 22.5rem;
+  margin-left: 10.5rem;
+  margin-right: 10.5rem;
+  font-size: 14pt;
 }
 
 span.note {
@@ -120,4 +122,22 @@ span.label {
 h1.memoirTitle {
   text-align: center;
   margin-top: 2rem;
+}
+
+p.memTitle {
+  text-align: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+img.memim {
+  margin-left: 10rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+h1 {
+  font-family: tahoma;
+}
+seg {
+  font-size: 14pt;
 }
