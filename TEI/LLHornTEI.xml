@@ -60,8 +60,8 @@
 								</publicationStmt>
 						<sourceDesc>
 						   <bibl></bibl>
-								
-								
+
+
 									<msDesc>
 										<msIdentifier>
 											<repository>Part of the Archives &amp; Special Collections, University of Nebraska-Lincoln Libraries Repository</repository>
@@ -86,7 +86,7 @@
 		 and stories of sexual harrassment or discrimination that was experienced in the workplace or housing. Addtionally, we
 		 selected sections that displayed race&#8208;relations in WAVES. Living in the United States during the War, Lois Horn makes
 		 frequent note on her experience with Japanese Americans, as well as effects of systemic discrimination against
-		 Japanese people during the war. The other major aspect of race found within the memoir has to do with Lois Horn's platoon, 
+		 Japanese people during the war. The other major aspect of race found within the memoir has to do with Lois Horn's platoon,
 		 which contained the first two African American Women naval officers in WAVES. These selected sections relate to
 		 race&#8208;relations and explore how White women serving in WAVES reacted to the full integration of African Americans in their
 		 platoon, especially during an era when segregation was prominent in the United
@@ -123,7 +123,7 @@
       <body>
 
          <p>
-            <note>pg 10, p3, race relations and friendship</note>
+            <note>pg 10, p2, race relations and friendship</note>
             <seg corresp="#r01"> I didn't know anyone who had been born in Japan, but there were several
             Nisei at Roosevelt. One of my friends was Gladys Tamura. Her family had
             a commercial garden where University Village Shopping Mall stands now.
@@ -137,7 +137,7 @@
          </p>
 
           <p>
-            <note>pg 10, p4, race relations and terminology</note>
+            <note>pg 10, p3, race relations and terminology</note>
              <seg corresp="#r01">I don't think Seattle had the intense resentment of Japanese Americans
                that California is to said to have had.</seg> <seg corresp="r02">But none could not say Caucasians,
                most of us, anyway, were very positive when the so&#8208;called <hi rend="italic">Exclusion Order</hi>
@@ -188,21 +188,49 @@
 
             <p>
 
-               <note>pg 11 and 24, A mystery ship named <hi rend="Italic">Fantome</hi></note>
+               <note>pg 11 p6, A mystery ship named <hi rend="Italic">Fantome</hi></note>
 
             <seg corresp="#w02">One week in 1940 a mystery ship, a three masted barque, sailed
             into Portage Bay, dropped anchor in the middle of the channel
             opposite the Showboat Theatre and just sat there quietly until
             the end of World War II. The 186&#8208;foot ship was the
-            <hi rend="Italic">Fantome</hi>, a private yatcht Sound.
-            It was rumored that there were submarine nets at the entrance
-            to the Bremerton harbor that opened for ferry access.</seg>
+            <hi rend="Italic">Fantome</hi>, a private yacht--</seg>
 
             </p>
 
             <p>
 
-               <note>pg 23, p6, Teaching Japanese during war</note>
+							<note>pg 23, p2, sexism and gender relations</note>
+		          <p>
+		          <seg corresp="#g01">Both my parents took jobs as miliatry cargo checkers, working seven
+		          days a week on evening shift. Dad worked at Pier 91 for the Navy and
+		          my mother at the Army Port of Embarkation. Mom worked alongside
+		          Italian POW's and under supervision of army lieutenants. On one
+		          occasion, her managerial talents led her to tell a young officer that
+		          "anyone with common sense" could see his way was inefficient, and
+		          she went on to tell him how to organize the work. The lieutenant
+		          tore off his jacket with its insignia and bars, tossed it to her and
+		          said, "O.K., if you're so smart, put this on and take over!" When he
+		          left the assignment, he came to tell her how much he thought of her
+		          and apologized for his behavior.</seg>
+		          </p>
+
+							<p>
+
+		             <note>pg 23, p4, education and gender relations</note>
+
+		             <seg corresp="#g01 #e01">Often poeple worked at more than one job. Teachers moonlighted as
+		             employment counselors for defense industries. When I went to apply
+		             for work, the counselor turned out to be Sam Glass, a teacher I'd had
+		             in high school. He told me I had no skills that could be used for
+		             national defense and insisted I could serve my country better by
+		             completing my education. He would not let me fill out an application
+		             So when I read that the University was expanding its Japanese
+		             language program and looking for students, I signed up. I started
+		             Japanese fall quarter 1942.</seg>
+		          </p>
+
+               <note>pg 23, p5, Teaching Japanese during war</note>
 
             <seg corresp="#e01 #r02">On the first day of intensive Japanese, about 25 students showed
             up, seven of them women. Wilhelmine Creel, a 35&#8208;year&#8208;old American
@@ -214,49 +242,7 @@
             for its Japanese program.</seg>
             </p>
 
-            <p>
-            <note>pg 24, p3, Women's resilience and lack of Japanese teachers during war </note>
 
-            <seg corresp="#g01 #r01 #w02 #e01">I made up my mind to stay in that Japanese class just to prove the
-            teacher wrong about women as students, if for no other reason. The
-            next summer the instructor asked me to help write a textbook on
-            conversational Japanese because I knew how to type and could put
-            a sentence together in Japanese. Before the book was finished in
-            the summer of 1943, I was in line for a teaching job because, of
-            course, there were no Japanese left in Seattle to teach and all
-            the bright male students were leaving for military intelligence schools.</seg>
-
-            </p>
-
-         <note>pg 23, p2, sexism and gender relations</note>
-         <p>
-         <seg corresp="#g01">Both my parents took jobs as miliatry cargo checkers, working seven
-         days a week on evening shift. Dad worked at Pier 91 for the Navy and
-         my mother at the Army Port of Embarkation. Mom worked alongside
-         Italian POW's and under supervision of army lieutenants. On one
-         occasion, her managerial talents led her to tell a young officer that
-         "anyone with common sense" could see his way was inefficient, and
-         she went on to tell him how to organize the work. The lieutenant
-         tore off his jacket with its insignia and bars, tossed it to her and
-         said, "O.K., if you're so smart, put this on and take over!" When he
-         left the assignment, he came to tell her how much he thought of her
-         and apologized for his behavior.</seg>
-         </p>
-
-         <p>
-
-            <note>pg 23, p4, education and gender relations</note>
-
-            <seg corresp="#g01 #e01">Often poeple worked at more than one job. Teachers moonlighted as
-            employment counselors for defense industries. When I went to apply
-            for work, the counselor turned out to be Sam Glass, a teacher I'd had
-            in high school. He told me I had no skills that could be used for
-            national defense and insisted I could serve my country better by
-            completing my education. He would not let me fill out an application
-            So when I read that the University was expanding its Japanese
-            language program and looking for students, I signed up. I started
-            Japanese fall quarter 1942.</seg>
-         </p>
          <p>
             <note>pg 24, p1, education and gender relations continued</note>
 
@@ -280,6 +266,37 @@
             going off to war, perhaps to be gone for years, marriage suddenly
             became popular.</seg>
          </p>
+
+				 <p>
+				 <note>pg 24, p3, Women's resilience and lack of Japanese teachers during war </note>
+
+				 <seg corresp="#g01 #r01 #w02 #e01">I made up my mind to stay in that Japanese class just to prove the
+				 teacher wrong about women as students, if for no other reason. The
+				 next summer the instructor asked me to help write a textbook on
+				 conversational Japanese because I knew how to type and could put
+				 a sentence together in Japanese. Before the book was finished in
+				 the summer of 1943, I was in line for a teaching job because, of
+				 course, there were no Japanese left in Seattle to teach and all
+				 the bright male students were leaving for military intelligence schools.</seg>
+
+				 </p>
+				 <p>
+         <note>pg 24, p4, Teaching/Education during war </note>
+
+         <seg corresp="#w02 #e01">Things happened very fast during war. Army Area and Language
+         Schools were set up on campuses where there were Far Eastern
+         Programs. The University of Washington got such a program.
+         Suddenly army men from all over the world descended on the
+         campus to study Japanese, Chinese, Russian and Korean languages,
+         history and culture. Classes were hastily put together and in
+         the rush I found myself, at nineteen, after three quarters of
+         Japanese study, in the guise of a Japanese language teacher to
+         a bunch of brainy guys who, in civilian life, were professors,
+         lawyers, accountants and musicians as old as thirty&#8208;five!</seg>
+         </p>
+
+            <p>
+
          <p>
             <note>pg 28, p 4, Context for naval officer school</note>
 
@@ -292,7 +309,7 @@
             at the Hotel Northampton which had been taken over by the Navy.</seg>
          </p>
          <p>
-            <note>pg 29, p. 1, concerns relating to gender discrimination</note>
+            <note>pg 29, p. 2, concerns relating to gender discrimination</note>
             <seg corresp="#g01">One of our concerns was that we would be bilged for having some
             physical complaint. We had been warned never to let on if we had a
             menstrual problem because opponents to women in military services
@@ -320,22 +337,7 @@
             will have to work a little harder just to be accepted."</seg>
          </p>
 
-         <p>
-         <note>pg 24, p4, Teaching/Education during war </note>
 
-         <seg corresp="#w02 #e01">Things happened very fast during war. Army Area and Language
-         Schools were set up on campuses where there were Far Eastern
-         Programs. The University of Washington got such a program.
-         Suddenly army men from all over the world descended on the
-         campus to study Japanese, Chinese, Russian and Korean languages,
-         history and culture. Classes were hastily put together and in
-         the rush I found myself, at nineteen, after three quarters of
-         Japanese study, in the guise of a Japanese language teacher to
-         a bunch of brainy guys who, in civilian life, were professors,
-         lawyers, accountants and musicians as old as thirty&#8208;five!</seg>
-         </p>
-
-            <p>
             <note>pg 30, p2, WAVES and vocabulary use during war </note>
 
          <seg corresp="#w02 #w03">It wasn't long before all of us spoke a new language that
@@ -436,18 +438,11 @@
             you&#8208;all to our platoon," in her soft southern accent.
             </seg>
          </p>
+
          <p>
-            <note>pg 35&#8208;36, p5, Gender relations context for following paragraph</note>
-            <seg corresp="#g01">After that, the five of us, Nellie, Janet, Harriett, Francis, and I spent
-            our free time together over ice cream sundaes in the Northampton
-            confectionary. We had emotionally&#8208;charged and frank discussions in
-            friend. "Molly!" they said, "There are some handsome cadets down
-            there, and they want to see you!"</seg>
-         </p>
-         <p>
-            <note>pg 36, p1, Gender relations </note>
+            <note>pg 36, p1, Gender relations (Molly is assumed to be another member of WAVES or at least a friend of Horn though she is not listed with, Horn's common group.)</note>
             <seg corresp="#g01">With great anticipation, Molly came down to meet the men and they
-            handed her a parcel. She opened it to find her lost panties which,\
+            handed her a parcel. She opened it to find her lost panties which,
             per regulations, had her nametag sewed into a seam. The cadets had
             found the abandoned item and went to a lot of trouble to amuse
             themselves on a Saturday night by bringing it to the WAVE barracks.
@@ -476,7 +471,7 @@
             the people in Birmingham would think if they saw it.</seg>
          </p>
          <p>
-            <note>pg 38, p5, Race relations context for next paragraph</note>
+            <note>pg 38, p1, Race relations context for next paragraph</note>
 
             <seg corresp="#r01">Next day, Francis came to guide us to the Brooklyn Navy Yard where
             we were going to try to board more ships. It was Sunday. First we
@@ -489,13 +484,13 @@
             there was a point at which we could establish conversation.</seg>
          </p>
          <p>
-            <note>pg 39, p1, Race relations continued</note>
+            <note>pg 38, p2, Race relations continued</note>
             <seg corresp="#r01">This was historic in that one of us was a black woman officer, one
             of the first in the Navy, and she was sitting down with the ship's
             officers, all white, in the otherwise segregated U.S. Navy.</seg>
          </p>
          <p>
-            <note>pg 39, p1, Lodging in Washington and context for following paragraphs</note>
+            <note>pg 40, p1, Lodging in Washington and context for following paragraphs</note>
 
             When Kay arrived, she was horrified to see our lodging. We had heard
             about wartime Washington, but figured the Navy would give us some
@@ -507,7 +502,7 @@
             ever expected to see, even in Washington.
          </p>
          <p>
-            <note>pg 39, p2, Etiquette and context for following paragraph</note>
+            <note>pg 40, p2, Etiquette and context for following paragraph</note>
             "My Gosh! It's the CNO himself! Admiral King!" we whispered. "What
             should we do?" Someone said, "Remember, the Navy never salutes
             indoors. Don't salute!" At Northampton we had been conditioned to
@@ -515,7 +510,7 @@
             Washington, we learned to take rank a bit more casually.
          </p>
          <p>
-            <note>pg 39, p3, Etiquette and conflict whith saluting male Lieut. Commander</note>
+            <note>pg 40, p3, Etiquette and conflict whith saluting male Lieut. Commander</note>
             <seg corresp="#g01">After awhile we were so relaxed that we ran into trouble when we
             traveled elsewhere. A WAVE lieutenant and I once visited the
             Brooklyn Navy Yard where she wanted to look up a friend. A male
@@ -524,7 +519,7 @@
             discipline for our failure to salute him.</seg>
          </p>
          <p>
-            <note>pg 39, p4, Etiquette and conflict whith saluting male Lieut. Commander continued</note>
+            <note>pg 40, p4, Etiquette and conflict whith saluting male Lieut. Commander continued</note>
             <seg corresp="#g01">You've got to be kidding," was our initial response, but the guy was
             really angry, so we finally saluted. We tried to tell him we were not
             attached to Brooklyn, that we were from Washington where it was
@@ -629,7 +624,7 @@
 
 
          <p>
-            <note>pg 46, p6, Gender relations and experience living in Washington in questionable housing</note>
+            <note>pg 45, p6, Gender relations and experience living in Washington in questionable housing</note>
            <seg corresp="#g01">The landlady was a government office worker and a pleasant person,
             but the word was that her boyfriend was out of the Navy on an "NP"
             (neuropsychiatric discharge) and had come to live with her. When
@@ -639,7 +634,7 @@
          </p>
 
         <p>
-            <note>pg 46, p7, Gender relations and experience living in
+            <note>pg 45, p7, Gender relations and experience living in
              Washington in questionable housing
              continued </note>
            <seg corresp="#g01">So long as I could get out of the house when the remaining tenants

@@ -4,7 +4,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <!-- We used a letter template for this one. My only question would be what publication information would be important in a letter like this. -->
+      <!--We are no longer using this for the project, but we kept it in in case there was any interest in seeing this part of the project. -->
       <fileDesc>
          <titleStmt>
                <title type="main">H.H. Horn Letter from Hitoshi Motoshima</title>
